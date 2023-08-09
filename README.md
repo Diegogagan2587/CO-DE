@@ -1,4 +1,19 @@
-# Getting Set Up
+### README
+
+# Table of Contents
+
+- [Getting Set Up](#getting-set-up)
+- [Getting Set Up](#getting-set-up)
+- [Getting Set Up](#getting-set-up)
+- [Getting Set Up](#getting-set-up)
+- [Getting Set Up](#getting-set-up)
+- [Getting Set Up](#getting-set-up)
+- [Getting Set Up](#getting-set-up)
+- [Workflow](#workflow)
+- [Getting Set Up](#getting-set-up)
+- [Style Guidelines](#style-guides)
+
+## Getting Set Up
 
 To set up the development environment, first clone the repo.
 
@@ -36,7 +51,7 @@ CO-DE uses React with TypeScript (Vite) for the frontend website and uses Flask 
 
 ## Contribution
 
-### Workflow
+### Workflow <a name="workflow"></a>
 
 This project uses a 3 legged branching strategy with `main` being the production version of the code; the main branch reflects the current version that is currently live to the public. The `development` branch contains the active changes that are made by the engineers to implement new features or fixes; pull requests are needed to contribute to `development` with 2 approvals from other engineers.
 
@@ -60,7 +75,7 @@ If you would like to unclaim a task, make sure to comment on the relevant issue 
 
 You can also collaborate on a task with another contributor, just let the rest of the team know in the issue discussion.
 
-### Style Guides
+### Style Guides <a name="style-guides"></a>
 
 **React:**
 
